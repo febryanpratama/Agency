@@ -62,7 +62,5 @@ class ClientController extends Controller
         $result = $this->clientService->delete($id);
 
         return response()->json($result);
-
-        // return redirect('client')->withSuccess($result['message']);
     }
 }

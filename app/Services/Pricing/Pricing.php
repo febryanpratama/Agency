@@ -130,5 +130,20 @@ class Pricing
             return $result;
         }
         // 
+
+    }
+    public function delete($id)
+    {
+        $data = ModelsPricing::where('id', $id)->delete();
+
+        $status = true;
+        $message = "Success delete Pricing data";
+
+        $result = [
+            'status'    => $status,
+            'message'   => $message,
+        ];
+
+        return $result;
     }
 }

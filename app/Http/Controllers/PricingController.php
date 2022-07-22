@@ -57,7 +57,6 @@ class PricingController extends Controller
     public function update(Request $request, $id)
     {
 
-        // dd($request->all());
         $result = $this->pricingServices->update($request, $id);
 
         if ($result['status'] == true) {
@@ -65,5 +64,12 @@ class PricingController extends Controller
         } else {
             return back()->withError($result['message']);
         }
+    }
+
+    public function delete($id)
+    {
+        $result = $this->pricingServices->delete($id);
+
+        return response()->json($result['status']);
     }
 }
