@@ -8,7 +8,18 @@
     <!-- Meta Data -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Abstrak | Digital Agency</title>
+    <title>StarLabSys | Digital Agency App Development</title>
+    <meta name="description" content="Jasa Pembuatan Website, Aplikasi Mobile, Digital Marketing Sesuai Kebutuhan Bisnis Anda Dengan Harga Murah Kualitas Mewah, Pontianak." />
+    <meta name="keywords" content="jasa pembuatan website pontianak,bikin website murah,pembuatan toko online,bikin toko online murah,bikin website murah pontianak,jasa website murah pontianak,website murah di pontianak,desain website murah pontianak,jasa bikin website murah pontianak,bikin website murah di pontianak,buat website murah di pontianak,jasa website murah di pontianak,website murah pontianak,buat website murah pontianak,pembuatan website murah di pontianak,jasa pembuatan website murah di pontianak,jasa buat website murah pontianak" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Jasa Pembuatan Website Murah pontianak - StarLabSys.tech" />
+    <meta property="og:description" content="starlabsys.tech Menyediakan Jasa Pembuatan Website, Aplikasi Android, &amp; Pemasaran Online Sesuai Kebutuhan Bisnis Anda Dengan Harga Murah Kualitas Mewah, Pontianak." />
+    <meta property="og:url" content="https://starlabsys.tech/" />
+    <meta property="og:image" content="https://www.tokoweb.co/wp-content/uploads/2018/07/GOPR5238_1531208626557_high-01.jpeg" />
+    <meta property="article:published_time" content="2020-10-30" />
+    <meta property="article:modified_time" content="{{ date('Y-m-d') }}" />
+    <meta property="og:site_name" content="starlabsys.tech" />
+    <meta name="twitter:card" content="summary" />
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
